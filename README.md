@@ -1,7 +1,7 @@
-👋 Hello!
-️🎉My fullname is Pham Hung Thinh. 
-🌱 I was born in Quang Nam. 
-👀 I am a student of FPT University.
+👋 Hello!<br/>
+️🎉My fullname is Pham Hung Thinh. <br/>
+🌱 I was born in Quang Nam. <br/>
+👀 I am a student of FPT University.<br/>
 <br/>
 <br/>
 ♥️♥️ Thank you for visiting my profile♥️♥️
