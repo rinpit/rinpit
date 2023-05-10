@@ -1,0 +1,3 @@
+- 👋 Hi, My fullname is Pham Hung Thinh. 
+- 🌱 I was born in Quang Nam. 
+- 👀 I am a student of FPT University.
